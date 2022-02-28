@@ -95,8 +95,6 @@
     + 成绩排序 ```sort```  
       输入：Student \*array, int n, int subj  
 
-3.核心算法的详细设计与实现  
-    略  
     
     
     
